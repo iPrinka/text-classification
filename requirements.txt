@@ -1,0 +1,10 @@
+pandas
+numpy
+bertopic
+scikit-learn
+wordcloud
+matplotlib
+transformers
+tensorflow
+tf-keras
+nbconvert
