@@ -164,3 +164,4 @@ cython_debug/
 
 # Model
 iprinka_news_classifier/
+supervised_input.csv
