@@ -1,6 +1,6 @@
 ## Project Summary
-This project implements a hybrid approach to classify unlabeled news articles into meaningful categories by combining unsupervised topic modeling and supervised text classification using BERT. 
-I have used the following dataset for building my model - https://www.kaggle.com/datasets/rmisra/news-category-dataset.
+* This project implements a hybrid approach to classify unlabeled news articles into meaningful categories by combining unsupervised topic modeling and supervised text classification using BERT. 
+* I have used the following dataset for building my model - https://www.kaggle.com/datasets/rmisra/news-category-dataset.
 
 
 ## Flow Diagram
