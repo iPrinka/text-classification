@@ -42,3 +42,8 @@ Workflow:
 3. Follow the unsupervised.ipynb file to generate pseudo labels using Topic Modeling. Feel free to experiment as per your wish.
 
 4. Once the final input file is generated from topic modeling, follow the supervised.ipynb to create a Supervised Text Classification Model. Note: Model can take hours to build based on your infrastructure. It took me 6 hrs on my macbook.
+
+
+## Output
+
+![Output](https://github.com/iPrinka/text-classification/blob/main/output_sample.png?raw=true)
