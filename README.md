@@ -43,7 +43,7 @@ Workflow:
 
 4. Once the final input file is generated from topic modeling, follow the supervised.ipynb to create a Supervised Text Classification Model. Note: Model can take hours to build based on your infrastructure. It took me 6 hrs on my macbook.
 
-## Explainability WordCloud Example
+## Topic Word Cloud Example
 
 ![Word Cloud](https://github.com/iPrinka/text-classification/blob/main/assets/wordcloud.png?raw=true)
 
