@@ -5,7 +5,7 @@
 
 ## Flow Diagram
 
-![Flow Diagram](https://github.com/iPrinka/text-classification/blob/main/flow_chart.jpg?raw=true)
+![Flow Diagram](https://github.com/iPrinka/text-classification/blob/main/assets/flow_chart.jpg?raw=true)
 
 ## Approach
 
@@ -43,7 +43,10 @@ Workflow:
 
 4. Once the final input file is generated from topic modeling, follow the supervised.ipynb to create a Supervised Text Classification Model. Note: Model can take hours to build based on your infrastructure. It took me 6 hrs on my macbook.
 
+## Explainability WordCloud Example
+
+![Word Cloud](https://github.com/iPrinka/text-classification/blob/main/assets/wordcloud.png?raw=true)
 
 ## Output
 
-![Output](https://github.com/iPrinka/text-classification/blob/main/output_sample.png?raw=true)
+![Output](https://github.com/iPrinka/text-classification/blob/main/assets/output_sample.png?raw=true)
