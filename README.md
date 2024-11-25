@@ -5,7 +5,7 @@ I have used the following dataset for building my model - https://www.kaggle.com
 
 ## Flow Diagram
 
-![Flow Diagram](https://github.com/Priyanka-Gangadhar-Palshetkar/text-classification/blob/main/flow-chart.jpg?raw=true)
+![Flow Diagram](https://github.com/iPrinka/text-classification/blob/main/flow_chart.jpg?raw=true)
 
 ## Approach
 
